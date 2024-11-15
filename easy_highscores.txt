@@ -1,0 +1,5 @@
+ali 150
+Saad 40
+aLI 20
+Ali 10
+ali 10
